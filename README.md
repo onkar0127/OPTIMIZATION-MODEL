@@ -88,3 +88,6 @@ The application outputs:
 - Additional product types and constraints
 - Interactive dashboard for scenario analysis
 - Stochastic modeling to account for uncertainty in demand and supply
+
+##output
+![Image](https://github.com/user-attachments/assets/663926a9-461b-4ff0-bd7f-e5dbd18d418c)
